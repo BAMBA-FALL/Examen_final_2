@@ -120,7 +120,7 @@ Ce projet Android a été conçu dans le cadre d’un examen final pour démontr
 
 1. **Cloner le Dépôt**
    ```bash
-   git clone https://github.com/el-hadji-mamadou-sarr/final-exam-aprem.git
+   git clone https://github.com/BAMBA-FALL/Examen_final_2.git
    ```
 
 2. **Importer le Projet**
@@ -138,5 +138,5 @@ Ce projet Android a été conçu dans le cadre d’un examen final pour démontr
 
 ## Auteur
 
-- [El Hadji Mamadou SARR](https://github.com/el-hadji-mamadou-sarr)
-- [Souleymane SALL](https://github.com/Pvpasall/)
+- [Khadim mbacké Fall](https://github.com/BAMBA-FALL)
+
