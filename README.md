@@ -21,9 +21,6 @@ Ce projet Android a été conçu dans le cadre d’un examen final pour démontr
      ```kotlin
      Log.d("MainActivity", "Application démarrée")
      Log.e("Database", "Erreur lors de l’initialisation de la base de données")
-     ```
-![Screenshot from 2024-12-12 15-03-04](https://github.com/user-attachments/assets/927487c6-d991-41d6-94c3-efee0b9bbca2)
-![Screenshot from 2024-12-12 15-03-49](https://github.com/user-attachments/assets/7c9ce847-13b5-40b7-a367-00ddd406e7ce)
 
 
 
